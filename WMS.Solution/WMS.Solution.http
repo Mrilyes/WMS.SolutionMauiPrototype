@@ -1,0 +1,6 @@
+@WMS.Solution_HostAddress = https://localhost:7202/
+
+GET {{WMS.Solution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
